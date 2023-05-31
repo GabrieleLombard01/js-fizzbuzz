@@ -34,7 +34,7 @@ console.log('JS OK')
 
     //Creo un contatore da 1 a 100
     for (let i = 1; i <= 100; i++) {
-        console.log(i);
+        //console.log(i);
 
         //Tutti gli altri numeri    
             let content = i;
